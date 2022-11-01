@@ -1,0 +1,19 @@
+[폰트]
+1. SuseongBatang.ttf
+ - 수성바탕체-대구광역시 수성구, 한국 저작권 위원회
+ - https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304310&menuNo=200023
+
+2. MonoplexKR-Text.ttf, MonoplexKR-light.ttf
+ - https://github.com/y-kim/monoplex/releases/tag/v0.0.2
+
+3. GothicA1-Thin.ttf
+ - https://fonts.google.com/specimen/Gothic+A1#standard-styles
+
+4. 나눔손글씨 노력하는 동희.ttf
+ - https://clova.ai/handwriting/list.html
+
+[그림]
+
+
+
+[음악]
